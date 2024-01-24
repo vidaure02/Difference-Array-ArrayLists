@@ -6,7 +6,7 @@ An array is a collection of the same type of elements that are grouped together 
 
 Declaration of an array: The declaration of the array follows the same logic and rules as declaring variables in the java language like the type of the data and the valid name of the array.
 
-Syntax: \<datatype> \<variablename> \[] or \<datatype> \[] \<variable name="">
+Syntax: \<datatype> \<variablename> \[] or \<datatype> \[] \<variable name>
 
 For example:
 int myArray[];
