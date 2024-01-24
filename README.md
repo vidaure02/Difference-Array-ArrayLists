@@ -18,7 +18,7 @@ ArrayList is a resizable array or we can say it is a dynamic array that is a par
 
 The Declaring of the ArrayList is similar to the array’s Declaration. Similar to arrays, it is required to specify the data type of elements in an ArrayList and also while Instantiation of the ArrayList we need not to mention the size of the ArrayList like in the arrays we have to mention the size of the arrays during the instantiation process.
 
-Syntax:ArrayList\<typename>\<variable name>
+Syntax: ArrayList\<typename>\<variable name>
 
 For example:
 ArrayList <Integer> myList;
