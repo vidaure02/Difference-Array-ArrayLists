@@ -16,7 +16,7 @@ What is ArrayList?
 
 ArrayList is a resizable array or we can say it is a dynamic array that is a part of the collection framework in java that is present in the util package. The main advantage of ArrayList over an array is the size of the ArrayList changes during the run time of the program but in the case of an array, the size of the array remains constant once instantiation is done in the java program. Even the deletion of the elements in the ArrayList is much easier than the array in the array. When we delete the middle element in the array we have to rearrange all remaining elements but ArrayList provides us with various inbuilt functions that help to perform many operations easier.
 
-The Declaring of the ArrayList is similar to the array’s Declaration. Similar to arrays, it is required to specify the data type of elements in an ArrayList and also while Instantiation of the ArrayList we need not to mention the size of the ArrayList like in the arrays we have to mention the size of the arrays during the instantiation process.
+The declaring of the ArrayList is similar to the array’s declaration. Similar to arrays, it is required to specify the data type of elements in an ArrayList and also while Instantiation of the ArrayList we need not to mention the size of the ArrayList like in the arrays we have to mention the size of the arrays during the instantiation process.
 
 Syntax: ArrayList\<typename>\<variable name>
 
